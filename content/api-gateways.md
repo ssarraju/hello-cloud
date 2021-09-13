@@ -1,0 +1,1 @@
+- [Embracing the Differences](https://link.medium.com/ZWBwT9vHkbb)

@@ -17,7 +17,7 @@ You can also write:
 | Snippet      | Date          |
 | ------------ | ------------- |
 | `/tomorrow`  | tomorrow      |
-| `/yesterday` | yesterday     |
+| `/yesterday` | yesterday     |
 | `/monday`    | next monday   |
 | `/+1d`       | tomorrow      |
 | `/-3d`       | 3 days ago    |
