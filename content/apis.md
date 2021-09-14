@@ -1,0 +1,5 @@
+- [How to design a RESTful API architecture from a human-language spec – O’Reilly](https://www.oreilly.com/content/how-to-design-a-restful-api-architecture-from-a-human-language-spec/)
+- [API design guide | Cloud APIs | Google Cloud](https://cloud.google.com/apis/design)
+- [Nordic APIs](https://nordicapis.com/)
+- [Stripe API Sessions 2019](https://youtu.be/IEe-5VOv0Js)
+- [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/)
