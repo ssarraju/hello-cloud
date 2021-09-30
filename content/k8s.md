@@ -1,0 +1,1 @@
+- [Kubernetes installation methods](https://itnext.io/kubernetes-installation-methods-the-complete-guide-1036c860a2b3)
